@@ -26,7 +26,7 @@ i learned so much about keeping user data ready for them no matter their circums
 
 follow my github link or deployed link to access the rest of my work both future and past. here is the deployed link going along side this project!:<br/>
 https://github.com/jakobpfeifer135 - Check me out! <br/>
-
+https://jakepfeifer-texteditor-12191fcd8cfc.herokuapp.com/  - My deployed Application feel free to give it a look!
 
 
 
